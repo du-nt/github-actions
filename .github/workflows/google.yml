@@ -32,8 +32,8 @@ jobs:
       uses: 'google-github-actions/auth@v2'
       with:
         token_format: 'access_token'
-        workload_identity_provider: 'projects/399377201308/locations/global/workloadIdentityPools/github-actions-test/providers/github-actions-test'
-        service_account: 'github-test@rational-aria-416911.iam.gserviceaccount.com'
+        workload_identity_provider: 'projects/399377201308/locations/global/workloadIdentityPools/ssssss/providers/sssssssss'
+        service_account: 'sssssssss@rational-aria-416911.iam.gserviceaccount.com'
 
     # Run gcloud commands
     - id: 'gcloud'
